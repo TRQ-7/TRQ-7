@@ -1,54 +1,29 @@
-## Hi there 👋
-
-<!--
-**TRQ-7/TRQ-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 🌟 عبارات الترحيب المتحركة (هون بس الترحيب بيتحرك) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Hello+World!+🚀;Welcome+to+my+digital+space!+💻;أهلاً+بكم+في+عالمي+الصغير!+✨" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- 🌟 اسمك وتخصصك بشكل ثابت وبارز -->
-<h1 align="center">I'm Tariq | أنا طارق 🛡️</h1>
+<h1 align="center">Hi, I'm Tariq! 🛡️</h1>
 <h3 align="center">Cybersecurity Student @ Amman Arab University</h3>
 
 <br>
 
-<!-- 🌟 نبذة احترافية عنك -->
 <div align="center">
   <p>
-    I'm a passionate Cybersecurity student navigating through networks, systems, and code. 
-    I believe in tackling complex tech challenges with a positive spirit and a big smile. 
-    My ultimate goal is to make a massive impact in this vast digital world, starting right from my screen.
+    I am a dedicated Cybersecurity student with a strong focus on network administration and system security. I am actively building my expertise in Linux, Python, and Windows environments. Driven by a passion for solving complex challenges, my goal is to make a significant impact in the tech industry and continuously expand my digital footprint.
   </p>
   <p>
-    طالب أمن سيبراني شغوف باستكشاف الأنظمة، الشبكات، والبرمجة. أؤمن بمواجهة التحديات التقنية بروح إيجابية، أوقات ممتعة، وابتسامة حاضرة دائماً. طموحي هو ترك بصمة كبيرة في هذا العالم الرقمي الواسع من خلف شاشتي الصغيرة.
+    طالب أمن سيبراني شغوف بتطوير مهاراتي في حماية الأنظمة وإدارة الشبكات. أعمل باستمرار على تعميق معرفتي في بيئات لينكس وويندوز، والبرمجة بلغة بايثون. أطمح لترك بصمة حقيقية في المجال التقني ومواجهة التحديات الأمنية باحترافية.
   </p>
 </div>
 
 <br>
 
-### 🚀 Current Focus | التركيز الحالي
-- 🐧 **Systems & OS:** Linux & Windows
-- 🐍 **Programming:** Python
-- 🌐 **Networking:** Network Administration & Security
+### 📌 Quick Facts
+- 🔭 **I’m currently focused on:** Deepening my knowledge in Cybersecurity and Network Administration.
+- 🌱 **I’m currently learning:** Linux 🐧, Python 🐍, Networking 🌐, and Windows 🪟.
+- 👯 **I’m looking to collaborate on:** Open-source tech and security projects.
+- 💬 **Ask me about:** Tech, Linux basics, and System Administration.
+- ⚡ **Fun fact:** I treat every network vulnerability like a complex puzzle waiting to be solved.
 
 <br>
 
-### 🛠️ Tech Stack | التقنيات
+### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,windows,kali&theme=dark" alt="My Skills" />
@@ -57,8 +32,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 📊 GitHub Stats | إحصائياتي
+### 📊 GitHub Stats
 <p align="center">
-  <!-- تذكر: غيّر [YOUR_USERNAME] لاسم حسابك الحقيقي عشان تشتغل -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TRQ-7&show_icons=true&theme=tokyonight&hide_border=true" alt="Tariq's GitHub Stats" />
 </p>
