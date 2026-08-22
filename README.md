@@ -14,28 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Tariq!</h1>
-<h3 align="center">Cybersecurity Student at Amman Arab University 🛡️</h3>
+<h1 align="center">Hello World! 🚀 | هلا فيكم 👋</h1>
+
+<!-- هذا الكود بيعمل تأثير الكتابة المتحركة الملونة -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=I'm+tariq+طارق;انا+بحب+ضحكتي+والاوقات+الحماسيه+الممتعه+✨" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Currently delving deep into Cybersecurity and Network Administration.
-- 💻 My setup involves heavily working with Kali Linux and Windows environments.
-- 🎬 Outside of tech, I focus on creating cinematic personal vlogs and video editing.
-- ✈️ Always planning my next solo travel adventure.
+### 👨‍💻 About Me 
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <!-- أيقونات بتقدر تضيف عليها براحتك -->
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+```python
+class Tariq:
+    def __init__(self):
+        self.name = "tariq طارق"
+        self.major = "أمن سيبراني (Cybersecurity) 🛡️"
+        self.university = "جامعة عمان العربية 🎓"
+        self.headline = "انا بحب ضحكتي والاوقات الحماسيه الممتعه ✨"
 
-### 📊 GitHub Stats
-<p align="left">
-  <!-- هذا الكود بيسحب إحصائياتك من حسابك مباشرة وبيحدثها تلقائياً -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TRQ-7&show_icons=true&theme=radical&hide_border=true" alt="TRQ-7 Stats" />
-</p>
+    def currently_learning(self):
+        # التقنيات والأنظمة اللي بدرسها حالياً
+        return ["Linux 🐧", "Python 🐍", "Networks 🌐", "Windows 🪟"]
+
+    def ambition(self):
+        return "بطمح يكون الي مكان كبير بهذا العالم الصغير الي طالع من شاشتي 💻🚀"
+
+if __name__ == "__main__":
+    me = Tariq()
