@@ -16,31 +16,36 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello World! 🚀 | هلا فيكم 👋</h1>
 
-<!-- هذا الكود بيعمل تأثير الكتابة المتحركة الملونة -->
+<!-- 🌟 حركة النص المتحرك (Typing Animation) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=I'm+tariq+طارق;انا+بحب+ضحكتي+والاوقات+الحماسيه+الممتعه+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Hi,+I'm+Tariq!;مرحباً،+أنا+طارق;I+love+my+smile+and+exciting+fun+times+✨;بحب+ضحكتي+والأوقات+الحماسية+الممتعة+✨" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me 
+### 👨‍💻 About Me | عنّي
 
 ```python
 class Tariq:
     def __init__(self):
-        self.name = "tariq طارق"
-        self.major = "أمن سيبراني (Cybersecurity) 🛡️"
-        self.university = "جامعة عمان العربية 🎓"
-        self.headline = "انا بحب ضحكتي والاوقات الحماسيه الممتعه ✨"
-
+        self.name = "Tariq | طارق"
+        self.major = "Cybersecurity 🛡️ | أمن سيبراني"
+        self.university = "Amman Arab University 🎓 | جامعة عمان العربية"
+        self.personality = "I love my smile and exciting, fun times ✨"
+        
     def currently_learning(self):
-        # التقنيات والأنظمة اللي بدرسها حالياً
-        return ["Linux 🐧", "Python 🐍", "Networks 🌐", "Windows 🪟"]
-
+        # Technologies I am currently diving into
+        # التقنيات اللي بدرسها حالياً
+        return ["Linux 🐧", "Python 🐍", "Networking 🌐", "Windows 🪟"]
+        
     def ambition(self):
-        return "بطمح يكون الي مكان كبير بهذا العالم الصغير الي طالع من شاشتي 💻🚀"
+        return (
+            "I aspire to have a big place in this small world "
+            "coming out of my screen 💻🚀 "
+            "| بطمح يكون الي مكان كبير بهذا العالم الصغير الي طالع من شاشتي"
+        )
 
 if __name__ == "__main__":
     me = Tariq()
