@@ -14,38 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello World! 🚀 | هلا فيكم 👋</h1>
-
-<!-- 🌟 حركة النص المتحرك (Typing Animation) -->
+<!-- 🌟 عبارات الترحيب المتحركة (هون بس الترحيب بيتحرك) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Hi,+I'm+Tariq!;مرحباً،+أنا+طارق;I+love+my+smile+and+exciting+fun+times+✨;بحب+ضحكتي+والأوقات+الحماسية+الممتعة+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Hello+World!+🚀;Welcome+to+my+digital+space!+💻;أهلاً+بكم+في+عالمي+الصغير!+✨" alt="Typing SVG" />
   </a>
 </p>
 
----
+<!-- 🌟 اسمك وتخصصك بشكل ثابت وبارز -->
+<h1 align="center">I'm Tariq | أنا طارق 🛡️</h1>
+<h3 align="center">Cybersecurity Student @ Amman Arab University</h3>
 
-### 👨‍💻 About Me | عنّي
+<br>
 
-```python
-class Tariq:
-    def __init__(self):
-        self.name = "Tariq | طارق"
-        self.major = "Cybersecurity 🛡️ | أمن سيبراني"
-        self.university = "Amman Arab University 🎓 | جامعة عمان العربية"
-        self.personality = "I love my smile and exciting, fun times ✨"
-        
-    def currently_learning(self):
-        # Technologies I am currently diving into
-        # التقنيات اللي بدرسها حالياً
-        return ["Linux 🐧", "Python 🐍", "Networking 🌐", "Windows 🪟"]
-        
-    def ambition(self):
-        return (
-            "I aspire to have a big place in this small world "
-            "coming out of my screen 💻🚀 "
-            "| بطمح يكون الي مكان كبير بهذا العالم الصغير الي طالع من شاشتي"
-        )
+<!-- 🌟 نبذة احترافية عنك -->
+<div align="center">
+  <p>
+    I'm a passionate Cybersecurity student navigating through networks, systems, and code. 
+    I believe in tackling complex tech challenges with a positive spirit and a big smile. 
+    My ultimate goal is to make a massive impact in this vast digital world, starting right from my screen.
+  </p>
+  <p>
+    طالب أمن سيبراني شغوف باستكشاف الأنظمة، الشبكات، والبرمجة. أؤمن بمواجهة التحديات التقنية بروح إيجابية، أوقات ممتعة، وابتسامة حاضرة دائماً. طموحي هو ترك بصمة كبيرة في هذا العالم الرقمي الواسع من خلف شاشتي الصغيرة.
+  </p>
+</div>
 
-if __name__ == "__main__":
-    me = Tariq()
+<br>
+
+### 🚀 Current Focus | التركيز الحالي
+- 🐧 **Systems & OS:** Linux & Windows
+- 🐍 **Programming:** Python
+- 🌐 **Networking:** Network Administration & Security
+
+<br>
+
+### 🛠️ Tech Stack | التقنيات
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,windows,kali&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+<br>
+
+### 📊 GitHub Stats | إحصائياتي
+<p align="center">
+  <!-- تذكر: غيّر [YOUR_USERNAME] لاسم حسابك الحقيقي عشان تشتغل -->
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
